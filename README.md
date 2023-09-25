@@ -1,4 +1,4 @@
-SCRAP - Song Composition through Retrieval Augmented Prompting
+# SCRAP - Song Composition through Retrieval Augmented Prompting
 
 
 <img src="./figs/scrap.svg">

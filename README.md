@@ -1,5 +1,8 @@
 # SCRAP - Symbolic Music Creation through Retrieval Augmented Prompting
 
+The following is the code for RETRIEVAL AUGMENTED GENERATION OF SYMBOLIC MUSIC WITH
+LLMS, LBD @ ISMIR 2023
+
 [![arXiv](https://img.shields.io/badge/arXiv-2311.10384-b31b1b.svg)](https://arxiv.org/abs/2311.10384)
 
 <img src="./figs/scrap.svg">
